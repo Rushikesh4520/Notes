@@ -45,7 +45,7 @@ example :-
 		return <h1> Hello {props.name} </h1>
 
 	}
-	ReactDOM.render(</hello name = "Tejas Dixit">, deocument.getElementById('root')
+	ReactDOM.render(</hello name = "Rushikesh Gaikwad">, deocument.getElementById('root')
 ```
 - Creating React Application .
 ```sh
